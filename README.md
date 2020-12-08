@@ -32,6 +32,7 @@ Test readme.md confluence integration
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
+    <li><a href="#funny-cat-video">Funny Cat Video</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -114,7 +115,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
 
-
+## Funny Cat Video
+[Link to the video](https://www.youtube.com/watch?v=tpiyEe_CqB4)
 
 <!-- CONTRIBUTING -->
 ## Contributing
