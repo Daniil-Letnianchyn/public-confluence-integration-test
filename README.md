@@ -7,7 +7,7 @@ Test readme.md confluence integration
 <br />
 <p align="center">
   <a href="https://github.com/Daniil-Letnianchyn/public-confluence-integration-test">
-    <img src="images/Haven.jpg" alt="Logo1" width="640" height="637">
+    <img src="images/Haven.jpg" alt="Logo1" width="675" height="432">
   </a>
 
   <h3 align="center">project_title</h3>
