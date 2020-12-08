@@ -1,6 +1,8 @@
 # public-confluence-integration-test
 Test readme.md confluence integration
 
+[Follow me](Docs/Readme.md)
+
 [![Forks][forks-shield]][forks-url]
 
 
