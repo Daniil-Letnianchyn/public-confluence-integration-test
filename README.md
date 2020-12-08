@@ -1,4 +1,4 @@
-# confluence-integration-test
+# public-confluence-integration-test
 Test readme.md confluence integration
 
 [![Forks][forks-shield]][forks-url]
@@ -15,14 +15,14 @@ Test readme.md confluence integration
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Daniil-Letnianchyn/public-confluence-integration-test"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Daniil-Letnianchyn/public-confluence-integration-test">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Daniil-Letnianchyn/public-confluence-integration-test/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Daniil-Letnianchyn/public-confluence-integration-test/issues">Request Feature</a>
   </p>
 </p>
 
@@ -91,7 +91,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/https://github.com/Daniil-Letnianchyn/public-confluence-integration-test.git
    ```
 2. Install NPM packages
    ```sh
@@ -134,5 +134,5 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-[forks-shield]: https://img.shields.io/github/forks/daniil-letnianchyn/confluence-integration-test.svg?style=for-the-badge
-[forks-url]: https://github.com/daniil-letnianchyn/confluence-integration-test/network/members
+[forks-shield]: https://img.shields.io/github/forks/daniil-letnianchyn/public-confluence-integration-test.svg?style=for-the-badge
+[forks-url]: https://github.com/daniil-letnianchyn/public-confluence-integration-test/network/members
